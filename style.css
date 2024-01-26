@@ -5,4 +5,13 @@
 nav {
 background: fixed;
 background-color: aqua;
+display: flex;
+}
+
+.anchor {
+
+}
+
+.footer{
+    color: blue;
 }
