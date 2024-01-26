@@ -85,3 +85,16 @@ img {
     top: 10px; /* Adjust as needed */
     left: 10px; /* Adjust as needed */
 }
+
+.card {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.three-col {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
