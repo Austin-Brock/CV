@@ -69,3 +69,8 @@ a:hover {
     color: #555;
     font-size: 14px;
 }
+
+hr {
+    border-top: 2px solid #333;
+    border-bottom: 1px solid #ddd;
+}
