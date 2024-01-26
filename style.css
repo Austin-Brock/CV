@@ -20,3 +20,9 @@ nav a {
 nav a:hover {
     color: #ddd;
 }
+
+section.unique-class-1, section.unique-class-2 {
+    background-color: #f4f4f4; /* Example color */
+    padding: 20px;
+    margin-top: 20px;
+}
