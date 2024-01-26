@@ -1,17 +1,22 @@
-.body {
-    margin: none;
+body {
+    margin: 0;
+    font-family: Arial, sans-serif; /* Example font */
 }
 
 nav {
-background: fixed;
-background-color: aqua;
-display: flex;
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
 }
 
-.anchor {
-
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
 }
 
-.footer{
-    color: blue;
+nav a:hover {
+    color: #ddd;
 }
