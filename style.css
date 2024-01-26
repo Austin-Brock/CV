@@ -47,3 +47,25 @@ footer a:hover {
     color: #ddd;
 }
 
+a {
+    color: blue; /* Example color */
+    text-decoration: none;
+}
+
+a:hover {
+    color: red; /* Example hover color */
+    text-decoration: underline;
+}
+
+/* Example Google Fonts usage */
+.font-class-1 {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 16px;
+}
+
+.font-class-2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    font-size: 14px;
+}
