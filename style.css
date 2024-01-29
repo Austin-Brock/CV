@@ -231,3 +231,30 @@ ul.skills li {
     align-items: center; /* Centers items horizontally */
     justify-content: center; /* Centers items vertically if the container is larger than the content */
 }
+
+/* Style for input fields and textarea */
+input[type="text"], input[type="email"], textarea {
+    width: 100%; /* Full width */
+    padding: 10px; /* Adds padding inside the input fields for better readability */
+    margin: 8px 0; /* Adds margin above and below each input field */
+    display: inline-block; /* Ensures the inputs are properly aligned */
+    border: 1px solid #ccc; /* Light grey border */
+    border-radius: 4px; /* Slightly rounded borders for a modern look */
+    box-sizing: border-box; /* Makes sure padding and border don't increase the width */
+}
+
+/* Style for submit button */
+input[type="submit"] {
+    width: 100%; /* Full width */
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text */
+    padding: 14px 20px; /* Padding for a larger, more clickable area */
+    margin: 8px 0; /* Margin above and below */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded borders */
+    cursor: pointer; /* Cursor changes to a pointer to indicate it's clickable */
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049; /* Slightly darker green on hover */
+}
