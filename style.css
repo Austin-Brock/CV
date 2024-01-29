@@ -34,6 +34,9 @@ nav a:hover {
 
 /* Style for the footer */
 footer {
+    display: flex;             /* Set the display to flex */
+    justify-content: center;   /* Center the child elements horizontally */
+    align-items: center;       /* Center the child elements vertically */
     background-color: #333333; /* A dark gray background */
     color: #ffffff;            /* White text for contrast */
     padding: 20px;             /* Padding for some space inside the footer */
@@ -48,3 +51,4 @@ footer a {
 footer a:hover {
     text-decoration: underline; /* Optional: Underline on hover for better UX */
 }
+
