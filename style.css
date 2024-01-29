@@ -133,3 +133,11 @@ hr {
     width: 100px; /* Example width, adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
+
+/* Style for images in the Austin-info section */
+.Austin-info img {
+    border: 3px solid #4CAF50; /* Sets a solid green border with 3px thickness */
+    border-radius: 10px;       /* Rounds the corners of the image */
+    width: 100px;              /* Example width, adjust as needed */
+    height: auto;              /* Maintain aspect ratio */
+}
