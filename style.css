@@ -5,13 +5,14 @@ body {
     font-family: Arial, sans-serif; /* Example font */
 }
 
+/* Style for the navigation bar */
 nav {
-    background-color: #333;
-    color: white;
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px;
+    background-color: #004d99; /* A deep blue background */
+    color: white;             /* White text for contrast */
+    padding: 10px;            /* Some padding around the text */
+    text-align: center;       /* Center-align the text/link */
 }
+
 
 nav a {
     color: white;
