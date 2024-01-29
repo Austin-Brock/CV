@@ -126,8 +126,8 @@ hr {
 /* Style for the first image */
 .top-image-1 {
     position: absolute;
-    top: 10px; /* Adjust these values as needed */
-    left: 10px; /* Adjust these values as needed */
+    top: 40px; /* Adjust these values as needed */
+    left: 40px; /* Adjust these values as needed */
     width: 100px; /* Example width, adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
@@ -135,15 +135,15 @@ hr {
 /* Style for the second image */
 .top-image-2 {
     position: absolute;
-    top: 10px; /* Adjust these values as needed */
-    right: 10px; /* Adjust these values as needed */
+    top: 40px; /* Adjust these values as needed */
+    right: 40px; /* Adjust these values as needed */
     width: 100px; /* Example width, adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
 
 /* Style for images in the Austin-info section */
 .Austin-info img {
-    border: 3px solid #4CAF50; /* Sets a solid green border with 3px thickness */
+    border: 3px solid black; /* Sets a solid green border with 3px thickness */
     border-radius: 10px;       /* Rounds the corners of the image */
     width: 100px;              /* Example width, adjust as needed */
     height: auto;              /* Maintain aspect ratio */
