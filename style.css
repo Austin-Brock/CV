@@ -71,4 +71,6 @@ footer a:hover {
     margin-bottom: 20px;       /* Space below the section */
 }
 
-
+a {
+    color: #1a0dab; /* A standard link blue color */
+}
