@@ -22,7 +22,7 @@ p {
 nav {
     display: flex;          /* Set the display to flex */
     justify-content: flex-end; /* Justify content to the right */
-    background-color: #004d99; /* A deep blue background */
+    background-color: #9236c7; /* A deep blue background */
     color: white;             /* White text for contrast */
     padding: 10px;            /* Some padding around the text */
 }
@@ -50,7 +50,7 @@ footer {
     display: flex;             /* Set the display to flex */
     justify-content: center;   /* Center the child elements horizontally */
     align-items: center;       /* Center the child elements vertically */
-    background-color: #333333; /* A dark gray background */
+    background-color:#9236c7; /* A purple background */
     color: #ffffff;            /* White text for contrast */
     padding: 20px;             /* Padding for some space inside the footer */
     text-align: center;        /* Center-align the content */
@@ -104,7 +104,7 @@ a:hover {
 }
 
 hr {
-    border-color: #4CAF50; /* Sets the color of the border */
+    border-color: #9236c7; /* Sets the color of the border */
     border-width: 2px;     /* Sets the width of the border */
     border-style: solid;   /* Sets the style of the border */
     margin: 20px 0;        /* Adds some space above and below the hr */
@@ -246,7 +246,7 @@ input[type="text"], input[type="email"], textarea {
 /* Style for submit button */
 input[type="submit"] {
     width: 100%; /* Full width */
-    background-color: #4CAF50; /* Green background color */
+    background-color: #9236c7; /* Green background color */
     color: white; /* White text */
     padding: 14px 20px; /* Padding for a larger, more clickable area */
     margin: 8px 0; /* Margin above and below */
