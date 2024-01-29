@@ -31,3 +31,20 @@ nav a:hover {
     background-color: #003366; /* Darker shade of blue on hover */
     color: #ffcc00;            /* Change text color on hover for contrast */
 }
+
+/* Style for the footer */
+footer {
+    background-color: #333333; /* A dark gray background */
+    color: #ffffff;            /* White text for contrast */
+    padding: 20px;             /* Padding for some space inside the footer */
+    text-align: center;        /* Center-align the content */
+}
+
+footer a {
+    color: #ffffff;            /* Ensure links are also white for consistency */
+    text-decoration: none;     /* Optional: Removes the underline from links */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Optional: Underline on hover for better UX */
+}
