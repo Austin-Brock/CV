@@ -7,7 +7,7 @@ body {
 
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif; /* Assuming you're using Roboto for headings */
-    color: #333333; /* A dark grey color for headings */
+    color: black; /* A dark grey color for headings */
     font-size: 24px; /* Example size for headings */
 }
 
@@ -76,6 +76,7 @@ footer a:hover {
     padding: 10px;             /* Padding around the content */
     margin-bottom: 10px;       /* Space below the section */
     text-align: center;
+    background-image: url(images/galaxy\ background\ image.jpg);
 }
 
 /* Style for the about-austin section */
