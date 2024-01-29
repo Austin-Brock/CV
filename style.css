@@ -57,4 +57,18 @@ footer a:hover {
     text-decoration: underline; /* Adds an underline on hover */
 }
 
+/* Style for the Austin-info section */
+.Austin-info {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 20px;             /* Padding around the content */
+    margin-bottom: 20px;       /* Space below the section */
+}
+
+/* Style for the about-austin section */
+.about-austin {
+    background-color: #e0e0e0; /* Slightly darker gray background */
+    padding: 20px;             /* Padding around the content */
+    margin-bottom: 20px;       /* Space below the section */
+}
+
 
