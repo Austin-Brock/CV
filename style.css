@@ -73,4 +73,5 @@ footer a:hover {
 
 a {
     color: #1a0dab; /* A standard link blue color */
+    text-decoration: none; /* Removes the underline from links */
 }
