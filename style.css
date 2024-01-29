@@ -141,3 +141,21 @@ hr {
     width: 100px;              /* Example width, adjust as needed */
     height: auto;              /* Maintain aspect ratio */
 }
+
+/* Style for the card */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+    border-radius: 10px; /* Optional: rounds the corners of the card */
+    background-color: #ffffff; /* Sets a white background color */
+    margin: 10px; /* Adds some space around the card */
+    padding: 15px; /* Adds some space inside the card */
+    max-width: 300px; /* Sets a maximum width for the card */
+    text-align: center; /* Centers the text inside the card */
+}
+
+.card img {
+    max-width: 100%; /* Makes the image responsive */
+    height: auto; /* Maintains the aspect ratio */
+    border-top-left-radius: 10px; /* Rounds the top left corner of the image */
+    border-top-right-radius: 10px; /* Rounds the top right corner of the image */
+}
