@@ -43,12 +43,18 @@ footer {
     text-align: center;        /* Center-align the content */
 }
 
+/* Style for anchor tags in the footer */
 footer a {
-    color: #ffffff;            /* Ensure links are also white for consistency */
-    text-decoration: none;     /* Optional: Removes the underline from links */
+    color: #ffcc00;            /* A bright color for the links */
+    text-decoration: none;     /* Removes the underline from links */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+    margin: 0 10px;             /* Optional: Adds horizontal margin for spacing between links */
 }
 
+/* Hover state for anchor tags in the footer */
 footer a:hover {
-    text-decoration: underline; /* Optional: Underline on hover for better UX */
+    color: #ffffff;            /* Changes text color to white on hover */
+    text-decoration: underline; /* Adds an underline on hover */
 }
+
 
