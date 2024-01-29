@@ -174,3 +174,19 @@ hr {
         grid-template-columns: 1fr; /* Stack the cards in a single column on smaller screens */
     }
 }
+
+/* Style for the unordered list containing languages */
+ul.languages {
+    display: flex; /* Enables Flexbox */
+    flex-wrap: wrap; /* Allows items to wrap to the next line */
+    gap: 10px; /* Space between items */
+    list-style: none; /* Removes default list styling */
+    padding: 0; /* Removes default padding */
+}
+
+/* Style for each list item */
+ul.languages li {
+    background-color: #e0e0e0; /* Light gray background for each item */
+    padding: 5px 10px; /* Padding inside each item */
+    border-radius: 5px; /* Rounded corners for each item */
+}
