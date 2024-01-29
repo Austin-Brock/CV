@@ -115,3 +115,12 @@ hr {
     border-width: 1px;     /* Different width for hr in the .about-austin section */
     /* Other styles like border-style can be added or modified here if needed */
 }
+
+/* Style for the first image */
+.top-image-1 {
+    position: absolute;
+    top: 10px; /* Adjust these values as needed */
+    left: 10px; /* Adjust these values as needed */
+    width: 100px; /* Example width, adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+}
