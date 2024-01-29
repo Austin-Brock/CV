@@ -82,6 +82,12 @@ footer a:hover {
     background-color: #e0e0e0; /* Slightly darker gray background */
     padding: 20px;             /* Padding around the content */
     margin-bottom: 20px;       /* Space below the section */
+    text-align: center;
+}
+.about-austin img {
+    max-width: 100%; /* Ensures the image is responsive and fits in its container */
+    height: auto; /* Maintains the aspect ratio of the image */
+
 }
 
 /* Style for all anchor tags */
