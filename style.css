@@ -145,8 +145,8 @@ hr {
 .Austin-info img {
     border: 3px solid black; /* Sets a solid green border with 3px thickness */
     border-radius: 10px;       /* Rounds the corners of the image */
-    width: 100px;              /* Example width, adjust as needed */
-    height: auto;              /* Maintain aspect ratio */
+    width: 200px;              /* Example width, adjust as needed */
+    height: 200px;              /* Maintain aspect ratio */
 }
 
 /* Style for the card */
