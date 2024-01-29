@@ -124,3 +124,12 @@ hr {
     width: 100px; /* Example width, adjust as needed */
     height: auto; /* Maintain aspect ratio */
 }
+
+/* Style for the second image */
+.top-image-2 {
+    position: absolute;
+    top: 10px; /* Adjust these values as needed */
+    right: 10px; /* Adjust these values as needed */
+    width: 100px; /* Example width, adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+}
