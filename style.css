@@ -190,3 +190,35 @@ ul.languages li {
     padding: 5px 10px; /* Padding inside each item */
     border-radius: 5px; /* Rounded corners for each item */
 }
+
+/* Style for the description list containing years and experience */
+dl.experience {
+    display: flex; /* Enables Flexbox */
+    flex-direction: column; /* Stack items vertically */
+    gap: 10px; /* Space between items */
+}
+
+/* Style for each term (dt) and description (dd) */
+dl.experience dt,
+dl.experience dd {
+    margin: 0; /* Removes default margin */
+    padding: 5px; /* Adds some padding */
+    background-color: #f0f0f0; /* Light background for each item */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Style for the skills list (assuming it's an unordered list) */
+ul.skills {
+    display: flex; /* Enables Flexbox */
+    flex-wrap: wrap; /* Allows list items to wrap to the next line */
+    gap: 10px; /* Space between items */
+    list-style: none; /* Removes default list styling */
+    padding: 0; /* Removes default padding */
+}
+
+/* Style for each list item (skill) */
+ul.skills li {
+    background-color: #f0f0f0; /* Light gray background for each item */
+    padding: 5px 10px; /* Padding inside each item */
+    border-radius: 5px; /* Rounded corners for each item */
+}
