@@ -109,3 +109,9 @@ hr {
     border-style: solid;   /* Sets the style of the border */
     margin: 20px 0;        /* Adds some space above and below the hr */
 }
+
+.about-austin hr {
+    border-color: #ff4500; /* Different color for hr in the .about-austin section */
+    border-width: 1px;     /* Different width for hr in the .about-austin section */
+    /* Other styles like border-style can be added or modified here if needed */
+}
