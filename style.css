@@ -2,7 +2,11 @@
 
 body {
     margin: 0;
-    font-family: Arial, sans-serif; /* Example font */
+    font-family: 'Open Sans', sans-serif; /* Default font for the body */
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif; /* Roboto for headings */
 }
 
 /* Style for the navigation bar */
