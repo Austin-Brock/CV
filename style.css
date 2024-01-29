@@ -103,3 +103,9 @@ a:hover {
     /* Other styles like text-decoration can be added here if needed */
 }
 
+hr {
+    border-color: #4CAF50; /* Sets the color of the border */
+    border-width: 2px;     /* Sets the width of the border */
+    border-style: solid;   /* Sets the style of the border */
+    margin: 20px 0;        /* Adds some space above and below the hr */
+}
