@@ -7,10 +7,15 @@ body {
 
 /* Style for the navigation bar */
 nav {
+    display: flex;          /* Set the display to flex */
+    justify-content: flex-end; /* Justify content to the right */
     background-color: #004d99; /* A deep blue background */
     color: white;             /* White text for contrast */
     padding: 10px;            /* Some padding around the text */
-    text-align: center;       /* Center-align the text/link */
+}
+
+nav p {
+    margin: 0; /* Remove default margin to align properly */
 }
 
 
