@@ -222,3 +222,12 @@ ul.skills li {
     padding: 5px 10px; /* Padding inside each item */
     border-radius: 5px; /* Rounded corners for each item */
 }
+
+/* Style for the one-col class */
+.one-col {
+    display: flex; /* Enables Flexbox */
+    flex-direction: column; /* Aligns children in a single column */
+    gap: 10px; /* Space between items */
+    align-items: center; /* Centers items horizontally */
+    justify-content: center; /* Centers items vertically if the container is larger than the content */
+}
