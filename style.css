@@ -71,7 +71,22 @@ footer a:hover {
     margin-bottom: 20px;       /* Space below the section */
 }
 
+/* Style for all anchor tags */
 a {
-    color: #1a0dab; /* A standard link blue color */
+    color: #1a0dab; /* Standard link blue color */
     text-decoration: none; /* Removes the underline from links */
+    transition: color 0.3s ease; /* Smooth transition for color change */
 }
+
+/* Hover state for all anchor tags */
+a:hover {
+    color: #ff4500; /* Change color on hover */
+    text-decoration: underline; /* Optionally add underline on hover for emphasis */
+}
+
+/* You can also have specific hover styles for links in specific sections */
+.Austin-info a:hover, .about-austin a:hover {
+    color: #008000; /* Different hover color for links in these sections */
+    /* Other styles like text-decoration can be added here if needed */
+}
+
