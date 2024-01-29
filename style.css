@@ -58,7 +58,7 @@ footer {
 
 /* Style for anchor tags in the footer */
 footer a {
-    color: #ffcc00;            /* A bright color for the links */
+    color: black;            /* A bright color for the links */
     text-decoration: none;     /* Removes the underline from links */
     transition: color 0.3s ease; /* Smooth transition for hover effect */
     margin: 0 10px;             /* Optional: Adds horizontal margin for spacing between links */
@@ -75,6 +75,7 @@ footer a:hover {
     background-color: #f0f0f0; /* Light gray background */
     padding: 20px;             /* Padding around the content */
     margin-bottom: 20px;       /* Space below the section */
+    text-align: center;
 }
 
 /* Style for the about-austin section */
