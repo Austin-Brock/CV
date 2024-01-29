@@ -41,8 +41,8 @@ nav a {
 
 /* Hover state for anchor tags in the navigation bar */
 nav a:hover {
-    background-color: #003366; /* Darker shade of blue on hover */
-    color: #ffcc00;            /* Change text color on hover for contrast */
+    background-color: #ffffff; /* Darker shade of blue on hover */
+    color: #9236c7;            /* Change text color on hover for contrast */
 }
 
 /* Style for the footer */
@@ -50,7 +50,7 @@ footer {
     display: flex;             /* Set the display to flex */
     justify-content: center;   /* Center the child elements horizontally */
     align-items: center;       /* Center the child elements vertically */
-    background-color:#9236c7; /* A purple background */
+    background-color: #9236c7; /* A purple background */
     color: #ffffff;            /* White text for contrast */
     padding: 20px;             /* Padding for some space inside the footer */
     text-align: center;        /* Center-align the content */
@@ -73,16 +73,16 @@ footer a:hover {
 /* Style for the Austin-info section */
 .Austin-info {
     background-color: #f0f0f0; /* Light gray background */
-    padding: 20px;             /* Padding around the content */
-    margin-bottom: 20px;       /* Space below the section */
+    padding: 10px;             /* Padding around the content */
+    margin-bottom: 10px;       /* Space below the section */
     text-align: center;
 }
 
 /* Style for the about-austin section */
 .about-austin {
     background-color: #e0e0e0; /* Slightly darker gray background */
-    padding: 20px;             /* Padding around the content */
-    margin-bottom: 20px;       /* Space below the section */
+    padding: 10px;             /* Padding around the content */
+    margin-bottom: 10px;       /* Space below the section */
     text-align: center;
 }
 .about-austin img {
