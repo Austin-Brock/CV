@@ -6,7 +6,16 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: 'Roboto', sans-serif; /* Roboto for headings */
+    font-family: 'Roboto', sans-serif; /* Assuming you're using Roboto for headings */
+    color: #333333; /* A dark grey color for headings */
+    font-size: 24px; /* Example size for headings */
+}
+
+/* Applying font styles to paragraph text */
+p {
+    font-family: 'Open Sans', sans-serif; /* Assuming you're using Open Sans for paragraphs */
+    color: #555555; /* A lighter grey color for paragraph text */
+    font-size: 16px; /* Standard */
 }
 
 /* Style for the navigation bar */
