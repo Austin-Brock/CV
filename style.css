@@ -22,7 +22,7 @@ p {
 nav {
     display: flex;          /* Set the display to flex */
     justify-content: flex-end; /* Justify content to the right */
-    background-color: #9236c7; /* A deep blue background */
+    background-color: black; /* A blackbackground */
     color: white;             /* White text for contrast */
     padding: 10px;            /* Some padding around the text */
 }
