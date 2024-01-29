@@ -85,9 +85,9 @@ footer a:hover {
     text-align: center;
 }
 .about-austin img {
+    border-radius: 40%;
     max-width: 100%; /* Ensures the image is responsive and fits in its container */
     height: auto; /* Maintains the aspect ratio of the image */
-
 }
 
 /* Style for all anchor tags */
