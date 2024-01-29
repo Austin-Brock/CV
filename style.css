@@ -73,10 +73,10 @@ footer a:hover {
 /* Style for the Austin-info section */
 .Austin-info {
     background-color: #f0f0f0; /* Light gray background */
-    padding: 10px;             /* Padding around the content */
+    padding: 150px;             /* Padding around the content */
     margin-bottom: 10px;       /* Space below the section */
     text-align: center;
-    background-image: url(images/galaxy\ background\ image.jpg);
+    background-image: url(images/city\ backround\ 3.jpg);
 }
 
 /* Style for the about-austin section */
